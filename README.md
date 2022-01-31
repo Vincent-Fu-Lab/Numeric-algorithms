@@ -1,3 +1,3 @@
-# Numeric_algorithms
+# Numeric algorithms
 
 Travaux sur l'algorithmique numérique
